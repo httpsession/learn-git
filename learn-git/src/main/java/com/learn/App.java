@@ -8,5 +8,6 @@ public class App {
 		System.out.println("something to do ");
 		System.out.println("hfhsdafsdaf");
 		System.out.println();
+		System.out.println("上班！");
 	}
 }
